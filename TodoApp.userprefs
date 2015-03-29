@@ -1,0 +1,10 @@
+﻿<Properties StartupItem="iOS/TodoApp.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6.8.2" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/borjagarciacueto/Documents/Projects/Formaciones/BCN Mobile .NET Developers Group/Repositorios/TodoApp/TodoApp.Forms/ViewModels/TodoItemViewModel.cs" line="125" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
