@@ -1,8 +1,8 @@
-# XTwitter
+# TODO App
 
 TodoAPP is a application implemented in [Xamarin.Forms], and it has served as a demo for the second [Meetup] of [Barcelona Mobile .NET Developers Group].
 
-![XTwitterTimeline](/_screenshots/todoapp1.png?raw=true "Todo list") ![XTwiiterTweetView](/_screenshots/todoapp2.png?raw=true "Todo list - Pull To Refresh") ![XTwitterSendTweet](/_screenshots/todoapp3.png?raw=true "Todo list - Context Actions")![XTwitterSendTweet](/_screenshots/todoapp4.png?raw=true "Todo list - Edit Form")
+![todoapp1](/_screenshots/todoapp1.png?raw=true "Todo list") ![todoapp2](/_screenshots/todoapp2.png?raw=true "Todo list - Pull To Refresh") ![todoapp3](/_screenshots/todoapp3.png?raw=true "Todo list - Context Actions")![todoapp4](/_screenshots/todoapp4.png?raw=true "Todo list - Edit Form")
 
 # Features
 
